@@ -196,10 +196,3 @@ python -c "from environment.verify_wrapper import run_verification; run_verifica
 ```
 
 ---
-
-If you want, I can:
-- (A) Add this README.md to the repository (create a branch and push a PR with the file and a requirements.txt + basic GitHub Actions CI).
-- (B) Parse Assignment 2-v2.docx and produce a rubric mapping report and change list tied to grading criteria.
-- (C) Create a minimal patch to (1) inject RNG and (2) add a debug flag (I can open a PR or show the exact diff here).
-
-Which would you like me to do next?
